@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactpythlambda-dev-145400-authRole",
+      "UnauthRoleArn": "arn:aws:iam::530526123093:role/amplify-reactpythlambda-dev-145400-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::530526123093:role/amplify-reactpythlambda-dev-145400-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reactpythlambda-dev-145400-deployment",
+      "UnauthRoleName": "amplify-reactpythlambda-dev-145400-unauthRole",
+      "StackName": "amplify-reactpythlambda-dev-145400",
+      "StackId": "arn:aws:cloudformation:us-east-1:530526123093:stack/amplify-reactpythlambda-dev-145400/c71946b0-c94d-11ec-8874-1200650041f9",
+      "AmplifyAppId": "depk15n61s059"
+    },
+    "categories": {
+      "function": {
+        "reactpythonlambda": {
+          "deploymentBucketName": "amplify-reactpythlambda-dev-145400-deployment",
+          "s3Key": "amplify-builds/reactpythonlambda-41505647422b43523742-build.zip"
+        }
+      }
+    }
+  }
+}

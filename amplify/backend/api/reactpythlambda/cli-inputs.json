@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/greetingapi": {
+      "name": "/greetingapi",
+      "lambdaFunction": "reactpythonlambda",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
